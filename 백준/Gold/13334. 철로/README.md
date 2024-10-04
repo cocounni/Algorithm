@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 54332 KB, 시간: 408 ms
+메모리: 54332 KB, 시간: 384 ms
 
 ### 분류
 
@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 5월 14일 20:35:53
+2024년 10월 4일 18:09:20
 
 ### 문제 설명
 
@@ -20,7 +20,7 @@
 
 <p>양의 정수 d와 n 개의 정수쌍, (h<sub>i</sub>, o<sub>i</sub>), 1 ≤ i ≤ n,이 주어져 있다. 여기서 h<sub>i</sub>와 o<sub>i</sub>는 사람 i의 집과 사무실의 위치이다. 길이 d의 모든 선분 L에 대하여, 집과 사무실의 위치가 모두 L에 포함되는 사람들의 최대 수를 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13334/1.png" style="height:140px; width:422px"></p>
+<p style="text-align: center;"><img alt="" src="" style="height:140px; width:422px"></p>
 
 <p style="text-align: center;">그림 1. 8 명의 집과 사무실의 위치</p>
 
